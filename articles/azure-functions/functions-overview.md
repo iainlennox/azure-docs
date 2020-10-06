@@ -65,7 +65,7 @@ A series of templates is available to get you started with key scenarios includi
 
 - **Service Bus Topic**: Connect other Azure services or on-premises services by [responding to Service Bus topic messages](./functions-bindings-service-bus.md)
 
-## <a name="pricing"></a>How much does Functions cost?
+## <a name="pricing"></a>How much do Functions cost?
 
 Azure Functions has three kinds of pricing plans. Choose the one that best fits your needs:
 
